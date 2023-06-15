@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-PlanWithLove/static/css/main.371d50fa.css",
+    "main.js": "/React-PlanWithLove/static/js/main.cba6608f.js",
+    "index.html": "/React-PlanWithLove/index.html",
+    "main.371d50fa.css.map": "/React-PlanWithLove/static/css/main.371d50fa.css.map",
+    "main.cba6608f.js.map": "/React-PlanWithLove/static/js/main.cba6608f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371d50fa.css",
+    "static/js/main.cba6608f.js"
+  ]
+}
